@@ -3,7 +3,8 @@ Minggu 19 Januari 2025
 2. Selesaikan Javascript
 3. Buar web portfolio
 4. Lamar Kerja Sedapetnya akhir Januari ini
-5. -Steve Jobs: "The only way to do great work is to love what you do."
+5. -Steve Jobs: 
+   "The only way to do great work is to love what you do."
    Satu-satunya cara untuk melakukan pekerjaan hebat adalah mencintai apa yang Anda lakukan.
 6. Kelasfullstack.id
 7. Lanjut kelas
