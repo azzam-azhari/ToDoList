@@ -8,3 +8,5 @@ Minggu 19 Januari 2025
    Satu-satunya cara untuk melakukan pekerjaan hebat adalah mencintai apa yang Anda lakukan.
 6. Kelasfullstack.id
 7. Lanjut kelas
+8. Dalemin Javascript
+9. Belajar dasar PHP
